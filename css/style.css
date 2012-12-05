@@ -1,0 +1,74 @@
+body{
+margin :0px auto;
+width:980px;
+padding:0px 15px;
+}
+
+#about{
+padding: 10px 10px;
+}
+
+#mainWrapper{
+background: #DEDEDE;
+width:980px;
+height:650px;
+margin-top:-20px;
+}
+
+
+#newusercontent{
+margin-left :100px;
+width:400px;
+}
+
+#newuser{
+background: #DEDEDE;
+padding:10px 10px;
+}
+
+#newuserform{
+float:left;
+background: #DEDEDE;
+}
+
+#logout{
+float:right;
+}
+
+#search{
+padding:10px 10px;
+background: #EEEEEE;
+width:400px;
+margin :0px auto;
+margin-top: -20px;
+}
+
+#searchwrapper{
+    background: #DEDEDE;
+}
+
+#loginWrapper{
+padding-top: 20px;
+}
+
+
+#rolltext{
+background:#000;
+opacity:0.5;
+color:#FFF;
+font-weight:bold;
+}
+
+a{
+text-decoration:none;
+}
+
+input{
+height:30px !important;
+font-size:12px !important;
+}
+
+#instructionWrapper{
+background: #DEDEDE;
+height:900px;
+}
